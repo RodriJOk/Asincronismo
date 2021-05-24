@@ -1,0 +1,11 @@
+{
+  "name": "asincronismoenjavascript",
+  "version": "1.0.0",
+  "description": "Proyect Asynchronism in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Juarez",
+  "license": "ISC"
+}
