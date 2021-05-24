@@ -4,7 +4,7 @@
   "description": "Proyect Asynchronism in Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/index.js"
   },
   "author": "Rodrigo Juarez",
   "license": "ISC"
