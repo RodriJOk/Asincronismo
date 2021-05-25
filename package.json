@@ -7,5 +7,8 @@
     "callback": "node src/callback/index.js"
   },
   "author": "Rodrigo Juarez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
