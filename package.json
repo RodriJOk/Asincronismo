@@ -4,7 +4,8 @@
   "description": "Proyect Asynchronism in Javascript",
   "main": "index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "promise" : "node src/promise/challenge.js"
   },
   "author": "Rodrigo Juarez",
   "license": "ISC",
